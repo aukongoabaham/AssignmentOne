@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABIGAIL\\source\\repos\\oop2 ass1!\\oop2 ass1!\\oop2 ass1!.csproj",
+      "projectUniqueName": "C:\\Users\\ABIGAIL\\Documents\\GitHub\\AssignmentOne\\oop2 ass1!\\oop2 ass1!.csproj",
       "projectName": "oop2 ass1!",
-      "projectPath": "C:\\Users\\ABIGAIL\\source\\repos\\oop2 ass1!\\oop2 ass1!\\oop2 ass1!.csproj",
+      "projectPath": "C:\\Users\\ABIGAIL\\Documents\\GitHub\\AssignmentOne\\oop2 ass1!\\oop2 ass1!.csproj",
       "packagesPath": "C:\\Users\\ABIGAIL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABIGAIL\\source\\repos\\oop2 ass1!\\oop2 ass1!\\obj\\",
+      "outputPath": "C:\\Users\\ABIGAIL\\Documents\\GitHub\\AssignmentOne\\oop2 ass1!\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABIGAIL\\AppData\\Roaming\\NuGet\\NuGet.Config",
